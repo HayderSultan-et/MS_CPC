@@ -1,0 +1,5 @@
+Dna_string=str(input())
+if "COV" in Dna_string:
+    print("Veikur!")
+else:
+    print("Ekki veikur!")
