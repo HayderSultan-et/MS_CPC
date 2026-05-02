@@ -1,0 +1,3 @@
+rounded_num=float(input())
+result = int(rounded_num+ 0.5)
+print(result)
