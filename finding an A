@@ -1,0 +1,4 @@
+word=str(input())
+Subword="a"
+text=word.find(Subword)
+print (word[text:])
